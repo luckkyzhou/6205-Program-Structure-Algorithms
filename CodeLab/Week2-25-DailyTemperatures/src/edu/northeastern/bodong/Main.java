@@ -18,5 +18,6 @@ public class Main {
             }
             stack.push(i);
         }
+        return res;
     }
 }
